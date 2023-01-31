@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my website/portfolio at [https://mihirbhaskar.github.io/](https://mihirbhaskar.github.io/)
+
 <!--
 **mihirbhaskar/mihirbhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
